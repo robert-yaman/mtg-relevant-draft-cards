@@ -1,0 +1,49 @@
+NAME,RARITY,MANA COST,CMC,COLORS,TEXT
+Adverse Conditions,U,3U,4,,"Devoid (This card has no color.)
+Tap up to two target creatures. Those creatures don't untap during their controller's next untap step. Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has ""Sacrifice this creature: Add {1} to your mana pool."""
+Brutal Expulsion,R,2UR,4,,"Devoid (This card has no color.)
+Choose one or both —
+• Return target spell or creature to its owner's hand.
+• Brutal Expulsion deals 2 damage to target creature or planeswalker. If that permanent would be put into a graveyard this turn, exile it instead."
+Complete Disregard,C,2B,3,,"Devoid (This card has no color.)
+Exile target creature with power 3 or less."
+Dispel,C,U,1,Blue,Counter target instant spell.
+Encircling Fissure,U,2W,3,White,"Prevent all combat damage that would be dealt this turn by creatures target opponent controls.
+Awaken 2—{4}{W} (If you cast this spell for {4}{W}, also put two +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+Gideon's Reproach,C,1W,2,White,Gideon's Reproach deals 4 damage to target attacking or blocking creature.
+Grave Birthing,C,2B,3,,"Devoid (This card has no color.)
+Target opponent exiles a card from his or her graveyard. You put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has ""Sacrifice this creature: Add {1} to your mana pool.""
+Draw a card."
+Grip of Desolation,U,4BB,6,,"Devoid (This card has no color.)
+Exile target creature and target land."
+Horribly Awry,U,1U,2,,"Devoid (This card has no color.)
+Counter target creature spell with converted mana cost 4 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+Infuse with the Elements,U,3G,4,Green,"Converge — Put X +1/+1 counters on target creature, where X is the number of colors of mana spent to cast Infuse with the Elements. That creature gains trample until end of turn."
+Inspired Charge,C,2WW,4,White,Creatures you control get +2/+1 until end of turn.
+Lithomancer's Focus,C,W,1,White,Target creature gets +2/+2 until end of turn. Prevent all damage that would be dealt to that creature this turn by colorless sources.
+Outnumber,C,R,1,Red,Outnumber deals damage to target creature equal to the number of creatures you control.
+Plummet,C,1G,2,Green,Destroy target creature with flying.
+Roil's Retribution,U,3WW,5,White,Roil's Retribution deals 5 damage divided as you choose among any number of target attacking or blocking creatures.
+Scatter to the Winds,R,1UU,3,Blue,"Counter target spell.
+Awaken 3—{4}{U}{U} (If you cast this spell for {4}{U}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)"
+Scour from Existence,C,7,7,,Exile target permanent.
+Smite the Monstrous,C,3W,4,White,Destroy target creature with power 4 or greater.
+Spell Shrivel,C,2U,3,,"Devoid (This card has no color.)
+Counter target spell unless its controller pays {4}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard."
+Stasis Snare,U,1WW,3,White,"Flash (You may cast this spell any time you could cast an instant.)
+When Stasis Snare enters the battlefield, exile target creature an opponent controls until Stasis Snare leaves the battlefield. (That creature returns under its owner's control.)"
+Stonefury,C,3RR,5,Red,Stonefury deals damage to target creature equal to the number of lands you control.
+Sure Strike,C,1R,2,Red,Target creature gets +3/+0 and gains first strike until end of turn.
+Swell of Growth,C,1G,2,Green,Target creature gets +2/+2 until end of turn. You may put a land card from your hand onto the battlefield.
+Tandem Tactics,C,1W,2,White,Up to two target creatures each get +1/+2 until end of turn. You gain 2 life.
+Titan's Presence,U,3,3,,"As an additional cost to cast Titan's Presence, reveal a colorless creature card from your hand.
+Exile target creature if its power is less than or equal to the revealed card's power."
+Turn Against,U,4R,5,,"Devoid (This card has no color.)
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn."
+Ulamog's Nullifier,U,2UB,4,,"Devoid (This card has no color.)
+Flash
+Flying
+When Ulamog's Nullifier enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell."
+Unnatural Aggression,C,2G,3,,"Devoid (This card has no color.)
+Target creature you control fights target creature an opponent controls. If the creature an opponent controls would die this turn, exile it instead."
+Volcanic Upheaval,C,3R,4,Red,Destroy target land.
