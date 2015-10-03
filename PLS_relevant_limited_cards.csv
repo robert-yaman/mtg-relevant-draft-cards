@@ -1,0 +1,46 @@
+NAME,RARITY,MANA COST,CMC,COLORS,TEXT
+Aura Blast,C,1W,2,White,"Destroy target enchantment.
+Draw a card."
+Confound,C,1U,2,Blue,"Counter target spell that targets one or more creatures.
+Draw a card."
+Crosis's Charm,U,UBR,3,Blue Black Red,"Choose one —
+• Return target permanent to its owner's hand.
+• Destroy target nonblack creature. It can't be regenerated.
+• Destroy target artifact."
+Darigaaz's Charm,U,BRG,3,Black Red Green,"Choose one —
+• Return target creature card from your graveyard to your hand.
+• Darigaaz's Charm deals 3 damage to target creature or player.
+• Target creature gets +3/+3 until end of turn."
+Daring Leap,C,1WU,3,White Blue,Target creature gets +1/+1 and gains flying and first strike until end of turn.
+Death Bomb,C,3B,4,Black,"As an additional cost to cast Death Bomb, sacrifice a creature.
+Destroy target nonblack creature. It can't be regenerated. Its controller loses 2 life."
+Dominaria's Judgment,R,2W,3,White,"Until end of turn, creatures you control gain protection from white if you control a Plains, from blue if you control an Island, from black if you control a Swamp, from red if you control a Mountain, and from green if you control a Forest."
+Dromar's Charm,U,WUB,3,White Blue Black,"Choose one —
+• You gain 5 life.
+• Counter target spell.
+• Target creature gets -2/-2 until end of turn."
+Ertai's Trickery,U,U,1,Blue,Counter target spell if it was kicked.
+Falling Timber,C,2G,3,Green,"Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)
+Prevent all combat damage target creature would deal this turn. If Falling Timber was kicked, prevent all combat damage another target creature would deal this turn."
+Fleetfoot Panther,U,1GW,3,White Green,"Flash
+When Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand."
+Gaea's Might,C,G,1,Green,Domain — Target creature gets +1/+1 until end of turn for each basic land type among lands you control.
+Gainsay,U,1U,2,Blue,Counter target blue spell.
+Gerrard's Command,C,GW,2,White Green,Untap target creature. It gets +3/+3 until end of turn.
+Magma Burst,C,3R,4,Red,"Kicker—Sacrifice two lands. (You may sacrifice two lands in addition to any other costs as you cast this spell.)
+Magma Burst deals 3 damage to target creature or player. If Magma Burst was kicked, it deals 3 damage to another target creature or player."
+Pollen Remedy,C,W,1,White,"Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)
+Prevent the next 3 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose. If Pollen Remedy was kicked, prevent the next 6 damage this way instead."
+Rith's Charm,U,RGW,3,White Red Green,"Choose one —
+• Destroy target nonbasic land.
+• Put three 1/1 green Saproling creature tokens onto the battlefield.
+• Prevent all damage a source of your choice would deal this turn."
+Shriek of Dread,C,1B,2,Black,Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)
+Singe,C,R,1,Red,Singe deals 1 damage to target creature. That creature becomes black until end of turn.
+Slay,U,2B,3,Black,"Destroy target green creature. It can't be regenerated.
+Draw a card."
+Terminate,C,BR,2,Black Red,Destroy target creature. It can't be regenerated.
+Treva's Charm,U,GWU,3,White Blue Green,"Choose one —
+• Destroy target enchantment.
+• Exile target attacking creature.
+• Draw a card, then discard a card."

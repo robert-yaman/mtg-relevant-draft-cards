@@ -42,7 +42,7 @@ begin
   data = JSON.parse(Net::HTTP.get('mtgjson.com', "/json/#{SET}.json"))
   all_cards = data["cards"]
 rescue
-  puts "Invalid Set Abbreviation"
+  puts "Invalid Set Abbreviation. Please consult http://mtgjson.com/ for options"
   abort
 end
 
@@ -53,8 +53,8 @@ CSV.open("#{SET}_relevant_limited_cards.csv", "w") do |csv|
   all_cards.each do |card|
     text = card["text"] || "" #for vanillas
     if (card["types"].include?("Instant") &&
-          InstantTrie.has_occurence?(text)) ||
-        NonInstantTrie.has_occurence?(text)
+          InstantTrie.can_find_occurence?(text)) ||
+        NonInstantTrie.can_find_occurence?(text)
       csv << [
         card["name"],
         card["rarity"][0],

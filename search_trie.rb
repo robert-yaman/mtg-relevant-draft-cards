@@ -31,7 +31,7 @@ class SearchTrie
     construct_trie(words)
   end
 
-  def has_occurence?(text)
+  def can_find_occurence?(text)
     text.each_char.with_index do |_, index|
       return true if can_find_terminal_from?(text, index)
     end
