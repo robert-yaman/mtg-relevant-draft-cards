@@ -17,7 +17,12 @@ require 'byebug'
 #     flash
 #store each set in trie
 
-SET = "BFZ"
+if ARGV.empty?
+  puts "Please provide three letter set abbreviation"
+  abort
+else
+  SET = ARGV[0]
+end
 
 InstantTrie = SearchTrie.new([
   "target creature",
@@ -33,8 +38,14 @@ NonInstantTrie = SearchTrie.new([
   "flash"
 ])
 
-data = JSON.parse(Net::HTTP.get('mtgjson.com', "/json/#{SET}.json"))
-all_cards = data["cards"]
+begin
+  data = JSON.parse(Net::HTTP.get('mtgjson.com', "/json/#{SET}.json"))
+  all_cards = data["cards"]
+rescue
+  puts "Invalid Set Abbreviation"
+  abort
+end
+
 
 CSV.open("#{SET}_relevant_limited_cards.csv", "w") do |csv|
   csv << ["NAME", "RARITY", "MANA COST", "CMC", "COLORS", "TEXT"]

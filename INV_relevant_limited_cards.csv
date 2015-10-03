@@ -1,0 +1,87 @@
+NAME,RARITY,MANA COST,CMC,COLORS,TEXT
+Absorb,R,WUU,3,White Blue,Counter target spell. You gain 3 life.
+Aggressive Urge,C,1G,2,Green,"Target creature gets +1/+1 until end of turn.
+Draw a card."
+Agonizing Demise,C,3B,4,Black,"Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
+Destroy target nonblack creature. It can't be regenerated. If Agonizing Demise was kicked, it deals damage equal to that creature's power to the creature's controller."
+Annihilate,U,3BB,5,Black,"Destroy target nonblack creature. It can't be regenerated.
+Draw a card."
+Artifact Mutation,R,RG,2,Red Green,"Destroy target artifact. It can't be regenerated. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that artifact's converted mana cost."
+Aura Mutation,R,GW,2,White Green,"Destroy target enchantment. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that enchantment's converted mana cost."
+Backlash,U,1BR,3,Black Red,Tap target untapped creature. That creature deals damage equal to its power to its controller.
+Bind,R,1G,2,Green,"Counter target activated ability. (Mana abilities can't be targeted.)
+Draw a card."
+Breaking Wave,R,2UU,4,Blue,"You may cast Breaking Wave as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+Simultaneously untap all tapped creatures and tap all untapped creatures."
+Cauldron Dance,U,4BR,6,Black Red,"Cast Cauldron Dance only during combat.
+Return target creature card from your graveyard to the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step.
+You may put a creature card from your hand onto the battlefield. That creature gains haste. Its controller sacrifices it at the beginning of the next end step."
+Chaotic Strike,U,1R,2,Red,"Cast Chaotic Strike only during combat after blockers are declared.
+Flip a coin. If you win the flip, target creature gets +1/+1 until end of turn.
+Draw a card."
+Cremate,U,B,1,Black,"Exile target card from a graveyard.
+Draw a card."
+Defiling Tears,U,2B,3,Black,"Until end of turn, target creature becomes black, gets +1/-1, and gains ""{B}: Regenerate this creature."""
+Dismantling Blow,C,2W,3,White,"Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)
+Destroy target artifact or enchantment.
+If Dismantling Blow was kicked, draw two cards."
+Disrupt,U,U,1,Blue,"Counter target instant or sorcery spell unless its controller pays {1}.
+Draw a card."
+Exclude,C,2U,3,Blue,"Counter target creature spell.
+Draw a card."
+Explosive Growth,C,G,1,Green,"Kicker {5} (You may pay an additional {5} as you cast this spell.)
+Target creature gets +2/+2 until end of turn. If Explosive Growth was kicked, that creature gets +5/+5 until end of turn instead."
+Ghitu Fire,R,XR,1,Red,"You may cast Ghitu Fire as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+Ghitu Fire deals X damage to target creature or player."
+Holy Day,C,W,1,White,Prevent all combat damage that would be dealt this turn.
+Liberate,U,1W,2,White,Exile target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+Lightning Dart,U,1R,2,Red,"Lightning Dart deals 1 damage to target creature. If that creature is white or blue, Lightning Dart deals 4 damage to it instead."
+Malice,U,3B,4,Black,Destroy target nonblack creature. It can't be regenerated.
+Orim's Touch,C,W,1,White,"Kicker {1} (You may pay an additional {1} as you cast this spell.)
+Prevent the next 2 damage that would be dealt to target creature or player this turn. If Orim's Touch was kicked, prevent the next 4 damage that would be dealt to that creature or player this turn instead."
+Overload,C,R,1,Red,"Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Destroy target artifact if its converted mana cost is 2 or less. If Overload was kicked, destroy that artifact if its converted mana cost is 5 or less instead."
+Prohibit,C,1U,2,Blue,"Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Counter target spell if its converted mana cost is 2 or less. If Prohibit was kicked, counter that spell if its converted mana cost is 4 or less instead."
+Raging Kavu,R,1RG,3,Red Green,"Flash
+Haste"
+Reckless Spite,U,1BB,3,Black,Destroy two target nonblack creatures. You lose 5 life.
+Repulse,C,2U,3,Blue,"Return target creature to its owner's hand.
+Draw a card."
+Restrain,C,2W,3,White,"Prevent all combat damage that would be dealt by target attacking creature this turn.
+Draw a card."
+Rout,R,3WW,5,White,"You may cast Rout as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+Destroy all creatures. They can't be regenerated."
+Samite Ministration,U,1W,2,White,"Prevent all damage that would be dealt to you this turn by a source of your choice. Whenever damage from a black or red source is prevented this way this turn, you gain that much life."
+Saproling Symbiosis,R,3G,4,Green,"You may cast Saproling Symbiosis as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+Put a 1/1 green Saproling creature token onto the battlefield for each creature you control."
+Scorching Lava,C,1R,2,Red,"Kicker {R} (You may pay an additional {R} as you cast this spell.)
+Scorching Lava deals 2 damage to target creature or player. If Scorching Lava was kicked, that creature can't be regenerated this turn and if it would die this turn, exile it instead."
+Simoon,U,RG,2,Red Green,Simoon deals 1 damage to each creature target opponent controls.
+Spinal Embrace,R,3UUB,6,Blue Black,"Cast Spinal Embrace only during combat.
+Untap target creature you don't control and gain control of it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. If you do, you gain life equal to its toughness."
+Spite,U,3U,4,Blue,Counter target noncreature spell.
+Stand,U,W,1,White,Prevent the next 2 damage that would be dealt to target creature this turn.
+Stun,C,1R,2,Red,"Target creature can't block this turn.
+Draw a card."
+Sway of Illusion,U,1U,2,Blue,"Any number of target creatures become the color of your choice until end of turn.
+Draw a card."
+Tangle,U,1G,2,Green,"Prevent all combat damage that would be dealt this turn.
+Each attacking creature doesn't untap during its controller's next untap step."
+Teferi's Response,R,1U,2,Blue,"Counter target spell or ability an opponent controls that targets a land you control. If a permanent's ability is countered this way, destroy that permanent.
+Draw two cards."
+Tsabo's Decree,R,5B,6,Black,Choose a creature type. Target player reveals his or her hand and discards all creature cards of that type. Then destroy all creatures of that type that player controls. They can't be regenerated.
+Twilight's Call,R,4BB,6,Black,"You may cast Twilight's Call as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
+Each player returns all creature cards from his or her graveyard to the battlefield."
+Undermine,R,UUB,3,Blue Black,Counter target spell. Its controller loses 3 life.
+Urza's Rage,R,2R,3,Red,"Kicker {8}{R} (You may pay an additional {8}{R} as you cast this spell.)
+Urza's Rage can't be countered by spells or abilities.
+Urza's Rage deals 3 damage to target creature or player. If Urza's Rage was kicked, instead it deals 10 damage to that creature or player and the damage can't be prevented."
+Vigorous Charge,C,G,1,Green,"Kicker {W} (You may pay an additional {W} as you cast this spell.)
+Target creature gains trample until end of turn. Whenever that creature deals combat damage this turn, if Vigorous Charge was kicked, you gain life equal to that damage."
+Wane,U,W,1,White,Destroy target enchantment.
+Wax,U,G,1,Green,Target creature gets +2/+2 until end of turn.
+Winnow,R,1W,2,White,"Destroy target nonland permanent if another permanent with the same name is on the battlefield.
+Draw a card."
+Zap,C,2R,3,Red,"Zap deals 1 damage to target creature or player.
+Draw a card."
