@@ -14,7 +14,24 @@ require_relative 'search_trie'
 #     flash
 #store each set in trie
 
+InstantTrie = SearchTrie.new([
+  "target creature",
+  "destroy",
+  "exile",
+  "damage",
+  "creatures you control",
+  "creatures your opponent controls"
+])
 
+NonInstantTrie = SearchTrie.new([
+  "flash"
+])
 
-cards = JSON.parse(Net::HTTP.get('mtgjson.com', '/json/BFZ.json'))["cards"]
-puts cards
+all_cards = JSON.parse(Net::HTTP.get('mtgjson.com', '/json/BFZ.json'))["cards"]
+p relevant_cards = cards.select do |card|
+  if card["types"].include?("Instant")
+    InstantTrie.has_occurence?(card["text"])
+  else
+    NonInstantTrie.has_occurence?(card["text"])
+  end
+end

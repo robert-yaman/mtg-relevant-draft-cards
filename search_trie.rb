@@ -1,7 +1,5 @@
-require 'byebug'
-
 class Node
-  attr_reader :val, :children
+  attr_reader :val
 
   def initialize(val)
     @val = val
@@ -23,7 +21,12 @@ class Node
 end
 
 class SearchTrie
-  def initialize(words)
+  def initialize(words, options = {})
+    defaults = {
+      case_insensitive: true
+    }
+
+    @options = defaults.merge(options)
     @root = Node.new(:root)
     construct_trie(words)
   end
@@ -62,7 +65,13 @@ class SearchTrie
     counter = i
 
     loop do
-      child = curr_node.find_child(text[counter])
+      if options[:case_insensitive]
+        curr_char = text[counter] && text[counter].downcase
+      else
+        curr_char = text[counter]
+      end
+
+      child = curr_node.find_child(curr_char)
       return false unless child
       return true if child.is_terminal?
 
@@ -71,11 +80,11 @@ class SearchTrie
     end
   end
 
-  attr_reader :root
+  attr_reader :root, :options
 end
-# 
+
 # s = SearchTrie.new(%w(this is search trie full of searchable words that rule) + ["string with spaces"])
-# p s.has_occurence?("string with spaces are hard to parse") # => true
+# p s.has_occurence?("sTring with spaces are hard to parse") # => true
 # p s.has_occurence?("strings with spaces are hard to parse") # => false
 # p s.has_occurence?("hooray") # => false
 # p s.has_occurence?("this should be true") # => true
